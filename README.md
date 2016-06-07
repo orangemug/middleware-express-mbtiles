@@ -2,12 +2,10 @@
 [MBTiles](https://github.com/mapbox/mbtiles-spec) middleware for express
 
 [![stability-unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)][stability]
-[![circleci](https://circleci.com/gh/orangemug/middleware-express-mbtiles.png?style=shield)][circleci]
 [![Dependency Status](https://david-dm.org/orangemug/middleware-express-mbtiles.svg)][dm-prod]
 [![Dev Dependency Status](https://david-dm.org/orangemug/middleware-express-mbtiles/dev-status.svg)][dm-dev]
 
 [stability]: https://github.com/orangemug/stability-badges#unstable
-[circleci]:  https://circleci.com/gh/orangemug/middleware-express-mbtiles
 [dm-prod]:   https://david-dm.org/orangemug/middleware-express-mbtiles
 [dm-dev]:    https://david-dm.org/orangemug/middleware-express-mbtiles#info=devDependencies
 
