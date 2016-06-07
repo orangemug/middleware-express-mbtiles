@@ -1,9 +1,6 @@
 {
   "name": "middleware-express-mbtiles",
   "version": "0.1.1",
-  "scripts": {
-    "test": "mocha test/index.js"
-  },
   "engines": {
     "node": "^4"
   },
